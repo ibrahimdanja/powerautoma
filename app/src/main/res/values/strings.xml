@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PowerSchedule</string>
+    <string name="accessibility_service_label">PowerSchedule Auto-Lock &amp; Power Service</string>
+    <string name="accessibility_service_description">Allows PowerSchedule to automate screen locking and opening the Samsung power dialog at scheduled sleep times without wearing out your hardware buttons.</string>
+    <string name="device_admin_description">Allows PowerSchedule to lock your device screen at scheduled bedtime or upon your quick lock command.</string>
+</resources>

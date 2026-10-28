@@ -1,0 +1,6 @@
+{
+  "name": "PowerSchedule",
+  "description": "Auto power, scheduled deep sleep, screen lock, and smart wake-up manager for Samsung Galaxy devices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
